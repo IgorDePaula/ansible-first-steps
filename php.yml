@@ -2,6 +2,7 @@
 - hosts: php
 
   tasks:
+
   - name: Remove default webserver
     apt:
       name: apache2

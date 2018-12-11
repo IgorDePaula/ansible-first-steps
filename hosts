@@ -1,2 +1,5 @@
 [php]
-68.183.125.158 ansible_ssh_user=root
+206.189.196.63 ansible_ssh_user=root
+
+[digitalocean]
+localhost ansible_connection=local
